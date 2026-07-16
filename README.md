@@ -1,6 +1,5 @@
 # Sobre Mí:
-🎓 Estudiante de **Ingeniería de la Información** (7mo Ciclo)<br> 💻 Apasionado por el desarrollo de software y el diseño de bases de datos<br> 🛠️ **Lenguajes y Bases de Datos:** Python, C++, MySQL, SQL Server, PostgreSQL
-
+🎓 Estudiante de **Ingeniería de la Información** (7mo Ciclo)<br> 💻 Apasionado por el desarrollo de software y el diseño de bases de datos
 
 ## Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateo-pereyra-jara-48698a2a1) 
