@@ -1,5 +1,5 @@
 # Sobre Mí:
- 🎓 Currently studying **Information Engineering**(7th Cycle)<br> 💻 Passionate about software development and database design<br> 🛠️ **Languages & Databases:** Python, C++, MySQL, SQL Server, PostgreSQL
+🎓 Estudiante de **Ingeniería de la Información** (7mo Ciclo)<br> 💻 Apasionado por el desarrollo de software y el diseño de bases de datos<br> 🛠️ **Lenguajes y Bases de Datos:** Python, C++, MySQL, SQL Server, PostgreSQL
 
 
 ## Redes:
